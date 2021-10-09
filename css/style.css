@@ -1,0 +1,179 @@
+
+body{
+    font-family: Montserrat;
+    
+    
+}
+.contact-num{
+    color:#fff;
+    font-family: 'inter-bold' sans-serif;
+    font-weight: 800;
+}
+#top-container {
+     font-family: 'inter-bold' sans-serif;
+    background-color: maroon;
+}
+#middle-container{
+    border-top:solid 1px rgb(54, 12, 12);
+   background-color: maroon;
+   position: fixed;
+   width: 100%;
+   border-bottom: solid 1px white;
+}
+
+.navbar-brand{
+    text-align: left;
+    font-family: montserrat-bold;
+    padding-left: 10px;
+    margin-top: 5px;
+    color: white;
+ }
+ 
+
+.nav-item{
+    font-family: montserrat-bold;
+  margin-top: 20px;
+    color:black;
+    font-size: 12px;
+    font-weight: 800;
+
+}
+
+h1 {
+  font-family: montserrat-bold;
+  padding-top: 80px;
+  padding-left: 10px;
+  color: black;
+  text-align: center;
+}
+
+h2{
+  font-family: montserrat-bold;
+  padding-right: 5px;
+  color: black;
+  text-align: center;
+  padding-top: 10px;
+}
+
+
+a{
+  color:#fff;
+  text-align: left;
+  font-family: montserrat-bold;
+  font-weight: 800;
+}
+
+p {
+  font-family: montserrat-bold;
+  color: black;
+  text-align: center;
+  padding-right: 30px;
+  padding-top: 100px;
+  font-weight: 600;
+  padding: 5px;
+}
+h3{
+  font-family: montserrat-bold;
+  padding-right: 5px;
+  color: black;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.icon1 {
+  padding-left: 47%;
+  margin-top: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+  
+  }
+  a:hover{
+    color:grey;
+  }
+  li {
+    float: left;
+    color: white;
+  }
+  
+  li a {
+    padding: 8px;
+    color: white;
+    
+  }
+
+#products{
+  margin-right: 20px;
+  margin-left: 30px;
+  max-width: 100%;
+  border-bottom: solid 1px white;
+}
+#about us{
+  margin-right: 200px;
+  margin-left: 200px;
+  border-bottom: white;
+}
+.back-img{
+  max-width: 100%;
+}
+#footer{
+  text-align: center;
+  margin-top: 20px;
+}
+.col-lg-4{
+  margin-top: 10px;
+  padding-left: 50px;
+}
+.col-lg-6{
+   margin-top: 0px;
+  padding-left: 50px;
+}
+.flavored{
+  margin-top: 50px;
+  max-width: 100%;
+}
+.detail{
+  margin-right:100px ;
+  margin-left: 100px;
+}
+.contact-info{
+  margin-top: 5PX;
+}
+.con{
+  margin-top: 10px;
+}
+.contact-info{
+  margin-right: 100px;
+  margin-left: 50px;
+}
+#contact{
+  background-color: maroon;
+  padding-bottom: 10px;
+}
+.txt{
+  color: #fff;
+}
+  .html{
+    scroll-behavior: smooth;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
